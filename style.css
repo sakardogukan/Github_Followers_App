@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.footer{
+    background-color: rgba(220, 171, 35, 0.933);
+    color: rgb(109, 81, 81);
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    font-style: oblique;
+    vertical-align: middle;
+
+}
